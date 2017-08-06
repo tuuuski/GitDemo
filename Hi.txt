@@ -1,2 +1,2 @@
 Hi This is a test demo file.
-Changed Something.
+Changed something
